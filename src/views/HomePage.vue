@@ -5,7 +5,7 @@
       <section id="hero" class="hero-section">
         <!-- Logo Top Center -->
         <div class="top-logo">
-          <img src="/assets/loog1.png" alt="Logo" />
+          <img src="/assets/loog1.webp" alt="Logo" />
         </div>
 
         <div class="glow-overlay"></div>
@@ -29,6 +29,7 @@
               Download CV
             </button>
           </div>
+
 
           <!-- MODAL VERIFIKASI CV -->
           <transition name="fade">
@@ -109,7 +110,7 @@
 
         <div class="about-grid">
           <div class="profile-col">
-            <img src="/assets/but1 1.svg" alt="Profile" class="profile-img" />
+            <img src="/assets/but1.webp" alt="Profile" class="profile-img" />
           </div>
 
           <div class="about-text">
@@ -141,7 +142,7 @@
             </div>
 
             <div class="tech-stack-full">
-              <img src="/assets/nguli 1.svg" alt="Tech Stack" />
+              <img src="/assets/nguli.webp" alt="Tech Stack" />
             </div>
           </div>
         </div>
@@ -228,7 +229,7 @@
           <a href="https://www.instagram.com/ardksfs_/" class="daily-card-link">
             <div class="daily-card">
               <div class="card-image-box">
-                <img src="/assets/ig 1.svg" alt="Instagram" />
+                <img src="/assets/ig.webp" alt="Instagram" />
                 <div class="card-overlay">
                   <i class="bx bxl-instagram"></i>
                 </div>
@@ -329,8 +330,7 @@ const verifyAndDownload = () => {
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
-    
-    // Tutup modal & reset
+
     showCvVerify.value = false;
     cvCode.value = "";
     showSuccess.value = true;

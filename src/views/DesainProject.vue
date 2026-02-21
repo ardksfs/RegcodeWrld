@@ -6,7 +6,7 @@
             <header class="project-header animate-fade-down">
                 <div class="top-logo">
                     <router-link to="/home" class="logo-link">
-                        <img src="/assets/loog1.png" alt="Logo">
+                        <img src="/assets/loog1.webp" alt="Logo">
                     </router-link>
                 </div>
                 <h1 class="page-title">Design Projects</h1>
@@ -109,15 +109,15 @@ const closeProject = () => { selectedProject.value = null; };
 const projects = ref([
     {
         id: 7, 
-        title: 'Photo Toning & Collage',
+        title: 'CPR.Moto Photo Toning & Collage',
         images: [
-            '/assets/W1/1.svg',
-            '/assets/W1/2.svg',
-            '/assets/W1/3.svg',
-            '/assets/W1/4.svg',
-            '/assets/W1/5.svg',
-            '/assets/W1/6.svg',
-            '/assets/W1/7.svg'
+            '/assets/WEBP1/1.webp',
+            '/assets/WEBP1/2.webp',
+            '/assets/WEBP1/3.webp',
+            '/assets/WEBP1/4.webp',
+            '/assets/WEBP1/5.webp',
+            '/assets/WEBP1/6.webp',
+            '/assets/WEBP1/7.webp'
         ],
         techIcons: ['/assets/Lr.svg', 'https://www.vectorlogo.zone/logos/canva/canva-icon.svg'],
         fullDesc: 'Detail informasi tentang jobdesk pekerjaan Photo Toning & Collage kreatif wedding, photo studio, prewedding, menggunakan Adobe Lightroom Classic dan Canva.',
@@ -129,14 +129,14 @@ const projects = ref([
     },
     {
         id: 8,
-        title: 'Photo Toning & Collage',
+        title: 'CPR.Moto Photo Toning & Collage',
         images: [
-            '/assets/W2/A1.svg',
-            '/assets/W2/A2.svg',
-            '/assets/W2/A3.svg',
-            '/assets/W2/A4.svg',
-            '/assets/W2/A5.svg',
-            '/assets/W2/A6.svg'
+            '/assets/WEBP2/1.webp',
+            '/assets/WEBP2/2.webp',
+            '/assets/WEBP2/3.webp',
+            '/assets/WEBP2/4.webp',
+            '/assets/WEBP2/5.webp',
+            '/assets/WEBP2/6.webp'
         ],
         techIcons: ['/assets/Lr.svg', 'https://www.vectorlogo.zone/logos/canva/canva-icon.svg'],
         fullDesc: 'Detail informasi tentang jobdesk pekerjaan Photo Toning & Collage kreatif wedding, photo studio, prewedding, menggunakan Adobe Lightroom Classic dan Canva.',
@@ -149,7 +149,7 @@ const projects = ref([
     {
         id: 2,
         title: 'Admin Cashier Poster',
-        image: '/assets/admps 1.svg',
+        image: '/assets/admps.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/figma/figma-icon.svg', 'https://www.vectorlogo.zone/logos/canva/canva-icon.svg'],
         fullDesc: 'Desain poster feed ig untuk App admin kasir restoran.',
         techDetails: [
@@ -161,7 +161,7 @@ const projects = ref([
     {
         id: 3,
         title: 'Indonesia Team PNC Poster',
-        image: '/assets/pnc 1.svg',
+        image: '/assets/pnc.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/figma/figma-icon.svg', 'https://www.vectorlogo.zone/logos/canva/canva-icon.svg'],
         fullDesc: 'Konsep poster profesional untuk untuk mendukung tim nasional Indonesia di ajang PUBG Nations Cup (PNC).',
         techDetails: [
@@ -173,7 +173,7 @@ const projects = ref([
     {
         id: 1,
         title: 'House Repair Poster',
-        image: '/assets/DSHS 1.svg',
+        image: '/assets/DSHS.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/figma/figma-icon.svg', 'https://www.vectorlogo.zone/logos/canva/canva-icon.svg'],
         fullDesc: 'Desain poster feed ig untuk web profile House Repair.',
         techDetails: [
@@ -185,7 +185,7 @@ const projects = ref([
     {
         id: 4,
         title: 'Thumbnail of Team THE EXPENDABLES',
-        image: '/assets/TES 1.svg',
+        image: '/assets/TES.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/canva/canva-icon.svg'],
         fullDesc: 'Desain Thumbnail all roaster player dari THE EXPENDABLES tim dari Vietnam',
         techDetails: [
@@ -196,7 +196,7 @@ const projects = ref([
     {
         id: 5,
         title: 'Thumbnail Player of TEAM FALCONS',
-        image: '/assets/kick 1.svg',
+        image: '/assets/kick.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/canva/canva-icon.svg'],
         fullDesc: 'Desain Thumbnail dari seorang player dari TEAM FALCONS dari tim US',
         techDetails: [
@@ -207,7 +207,7 @@ const projects = ref([
     {
         id: 6,
         title: 'Thumbnail Player of ROY ESPORTS',
-        image: '/assets/TD1 1.svg',
+        image: '/assets/TD1.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/canva/canva-icon.svg'],
         fullDesc: 'Desain Thumbnail dari seorang player dari ROY ESPORTS dari tim Indonesia',
         techDetails: [

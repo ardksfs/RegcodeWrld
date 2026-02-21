@@ -10,7 +10,7 @@
 
         <!-- Trigger Bot  -->
         <div class="chat-trigger" @click="toggleChat">
-            <img src="/assets/bot.png" alt="Bot Logo" class="bot-img-animate" :class="{ 'active-logo': isOpen }">
+            <img src="/assets/bot.webp" alt="Bot Logo" class="bot-img-animate" :class="{ 'active-logo': isOpen }">
         </div>
 
         <!-- Jendela Chat -->
@@ -24,7 +24,7 @@
                     </button>
 
                     <div class="header-center">
-                        <img src="/assets/bot.png" class="mini-logo">
+                        <img src="/assets/bot.webp" class="mini-logo">
                         <span class="assistant-name"><span class="glimmer-r">R</span>obo chat</span>
                     </div>
 

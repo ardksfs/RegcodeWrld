@@ -6,7 +6,7 @@
             <header class="project-header animate-fade-down">
                 <div class="top-logo">
                     <router-link to="/home" class="logo-link">
-                        <img src="/assets/loog1.png" alt="Logo">
+                        <img src="/assets/loog1.webp" alt="Logo">
                     </router-link>
                 </div>
                 <h1 class="page-title">Web Projects</h1>
@@ -127,7 +127,7 @@ const projects = ref([
     {
         id: 1,
         title: 'Website Desa Kominfo',
-        image: '/assets/kkp 1.svg',
+        image: '/assets/kkp.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg', 'https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'],
         fullDesc: 'Project Website Desa yang dikembangkan sebagai bagian dari program kerja digitalisasi instansi selama masa magang di Dinas Kominfo, yang dibangun dengan basic Html, Tailwind Css, dan JS',
         techDetails: [
@@ -139,7 +139,7 @@ const projects = ref([
     {
         id: 2,
         title: 'House My',
-        image: '/assets/Hs 1.svg',
+        image: '/assets/Hs.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg', 'https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'],
         fullDesc: 'Detail informasi tentang project Website Penyewaan dan PembelianVilla/Rumah versi yang dibangun dengan Tailwind Css dan JS',
         techDetails: [
@@ -151,7 +151,7 @@ const projects = ref([
     {
         id: 3,
         title: 'Admin Cashier',
-        image: '/assets/adm- 1.svg',
+        image: '/assets/adm-.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg', 'https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg'],
         fullDesc: 'Detail informasi tentang project sebuah Website app kasir restoran dengan yang dibangun dengan Vue dan Ionic.',
         techDetails: [
@@ -163,7 +163,7 @@ const projects = ref([
     {
         id: 4,
         title: 'APP Cuaca',
-        image: '/assets/weather- 1.svg',
+        image: '/assets/weather-.webp',
         techIcons: ['https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg', 'https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg'],
         fullDesc: 'Detail informasi tentang project sebuah Website app Perkiraan Cuaca dengan yang dibangun dengan API, Vue dan Ionic.',
         techDetails: [
