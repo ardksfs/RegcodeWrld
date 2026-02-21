@@ -121,9 +121,9 @@ const chatTree = {
     contact: {
         text: `Silakan hubungi saya melalui platform di bawah ini. Klik alamat email untuk menyalin otomatis:<br><br>
         <div class="contact-list">
-            <a href="https://wa.me/6285728326976" target="_blank" class="contact-item">
+            <a href="https://wa.me/6285728325976" target="_blank" class="contact-item">
                 <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="WA">
-                <span>+62 857-2832-6976</span>
+                <span>+62 857-2832-5976</span>
             </a>
             <div class="contact-item" onclick="copyEmail('fregidikasetiawan@gmail.com')">
                 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Mail">
