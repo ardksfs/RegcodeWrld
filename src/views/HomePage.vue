@@ -179,7 +179,7 @@
                   <div class="timeline-dot"></div>
                   <h3>Universitas Terbuka</h3>
                   <span class="date">2023 - On Going</span>
-                  <p>S1 Informasi | IPS 3.00</p>
+                  <p>Sistem Informasi | IPS 3.00</p>
                 </div>
                 <div class="timeline-item">
                   <div class="timeline-dot"></div>
