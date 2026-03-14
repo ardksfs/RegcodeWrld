@@ -171,6 +171,18 @@ const projects = ref([
             { name: 'Ionic', icon: 'https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg' }
         ],
         longInfo: 'Aplikasi ini berfokus pada visualisasi data cuaca yang simple, bersih dan mudah dipahami. Menggunakan integrasi API cuaca global, sistem ini mampu menampilkan suhu, kelembapan, dan prediksi cuaca harian di berbagai wilayah dengan performa akses yang sangat cepat dan responsif.'
+    },
+    {
+        id: 5,
+        title: 'Web-Apps Hotel Santoso',
+        image: '/assets/HT.webp',
+        techIcons: ['https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg', 'https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg'],
+        fullDesc: 'Detail informasi tentang project sebuah Website Apps Hotel Santoso dengan yang dibangun dengan Vue dan Ionic.',
+        techDetails: [
+            { name: 'Vue', icon: 'https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg' },
+            { name: 'Ionic', icon: 'https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg' }
+        ],
+        longInfo: 'Website ini dibuat sebagai media informasi dan promosi digital untuk Hotel Santoso Blora dengan tampilan yang sederhana, bersih, dan mudah diakses. Website menampilkan informasi kamar, fasilitas, galeri, lokasi, serta kontak reservasi dengan desain responsif sehingga nyaman digunakan di berbagai perangkat.'
     }
     
 ]);

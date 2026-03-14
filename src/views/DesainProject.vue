@@ -159,6 +159,18 @@ const projects = ref([
         longInfo: 'Poster feed IG ini berfokus pada tampilan User Interface (UI) aplikasi kasir yang intuitif dan bersih. Perpaduan tipografi yang tegas dan elemen visual modern dirancang untuk memberikan kesan profesionalitas pada sistem administrasi restoran.'
     },
     {
+        id: 7,
+        title: 'Web Apps Hotel Santoso',
+        image: '/assets/LPsantoso.webp',
+        techIcons: ['https://www.vectorlogo.zone/logos/figma/figma-icon.svg', 'https://www.vectorlogo.zone/logos/canva/canva-icon.svg'],
+        fullDesc: 'Desain poster feed ig untuk Web Apps Hotel Santoso',
+        techDetails: [
+            { name: 'Figma Design', icon: 'https://www.vectorlogo.zone/logos/figma/figma-icon.svg' },
+            { name: 'Canva', icon: 'https://www.vectorlogo.zone/logos/canva/canva-icon.svg' }
+        ],
+        longInfo: 'Poster feed IG ini berfokus pada tampilan User Interface (UI) web apps hotell yang modern, clean, dan kekinian. Perpaduan tipografi yang tegas dan elemen visual modern dirancang untuk memberikan kesan profesionalitas pada web apps yang sudah disajikan.'
+    },
+    {
         id: 3,
         title: 'Indonesia Team PNC Poster',
         image: '/assets/pnc.webp',
